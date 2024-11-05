@@ -10,9 +10,12 @@
   3. MS Access
   4. SQL Server
   5. PostgreSQL
-### Keys in SQL
+### Keys in SQL/Database Keys
 - Primary Key
 - Surrogate Key
 - Composite Key
 - Foreign Key
+- Candidate key
+- Alternate Key
+- Super Key
 - 

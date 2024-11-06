@@ -22,4 +22,16 @@
 
   ### Difference between delete, drop and trauncate
   - delete will erease all the records
-  - 
+
+  ### SQL Clauses:
+  They are essential of SQL that defines how querries interacts with database e.g where, order etc
+
+  # Functions of SQL clauses
+  1. specify conditions
+  2. control how returned
+  3. modify conditions
+  ### types of SQL clauses
+  - group by group
+  - having clause
+  - order clause
+    

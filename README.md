@@ -11,6 +11,7 @@
   4. SQL Server
   5. PostgreSQL
 ### Keys in SQL/Database Keys
+---
 - Primary Key
 - Surrogate Key
 - Composite Key
@@ -18,4 +19,4 @@
 - Candidate key
 - Alternate Key
 - Super Key
-- 
+  

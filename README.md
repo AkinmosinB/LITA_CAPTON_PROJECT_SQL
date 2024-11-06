@@ -19,4 +19,7 @@
 - Candidate key
 - Alternate Key
 - Super Key
-  
+
+  ### Difference between delete, drop and trauncate
+  - delete will erease all the records
+  - 

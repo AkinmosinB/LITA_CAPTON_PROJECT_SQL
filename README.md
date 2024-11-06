@@ -1,5 +1,15 @@
 # LITA_CAPTON_PROJECT_SQL
-*** [SQL management Server] (SQL management Server)
+*** [SQL management Server](SQLmanagementServer)
+
+*** [Keys in SQL/Database Keys](KeysinSQL/DatabaseKeys)
+
+*** [Difference between delete, drop and trauncate](Differencebetweendelete,dropandtrauncate)
+
+*** [SQL Clauses](SQLClauses)
+
+*** [Functions of SQL clauses](FunctionsofSQLclauses)
+
+*** [types of SQL clauses](typesofSQLclauses)
 
 ### SQL management Server
 ---
@@ -24,7 +34,7 @@
   ### Difference between delete, drop and trauncate
   - delete will erease all the records
 
-  ### SQL Clauses:
+  ### SQL Clauses
   They are essential of SQL that defines how querries interacts with database e.g where, order etc
 
   # Functions of SQL clauses
